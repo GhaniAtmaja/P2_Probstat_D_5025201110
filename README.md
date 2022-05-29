@@ -127,8 +127,22 @@ qplot(x = Temp, y = Light, geom = "point", data = GTL) + facet_grid(.~Glass, lab
 ![image](https://user-images.githubusercontent.com/77779184/170882102-a9883107-f3c3-4f90-8d6e-349394f35b24.png)
 
 ### B
+Uji Anova two way
+![image](https://user-images.githubusercontent.com/77779184/170882219-d0e2630f-c493-49d2-a34c-10650b5e0c1b.png)
+![image](https://user-images.githubusercontent.com/77779184/170882221-f2797b04-2e38-44c1-b203-1c566e324c62.png)
+
 ### C
+Menampilkan tabel dengan mean dan standar  deviasi
+![image](https://user-images.githubusercontent.com/77779184/170882279-90a3734c-c359-4f87-b441-25b3a91823a3.png)
+
 ### D
+Uji Tukey
+![image](https://user-images.githubusercontent.com/77779184/170882308-3609d871-f9f1-4a00-b514-7d0524f9321c.png)
+![image](https://user-images.githubusercontent.com/77779184/170882318-5a64bc79-ca5a-4e4f-8743-730bca1cd669.png)
+
 ### E
+PLot untuk visualisasi Data
+![image](https://user-images.githubusercontent.com/77779184/170882353-331c2b74-b610-4235-8bdf-72d9c1d80d09.png)
+![image](https://user-images.githubusercontent.com/77779184/170882361-2e733e37-dc87-42b8-9dfc-528ca678a9a7.png)
 
 
