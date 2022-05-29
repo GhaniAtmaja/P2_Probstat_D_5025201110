@@ -128,7 +128,7 @@ qplot(x = Temp, y = Light, geom = "point", data = GTL) + facet_grid(.~Glass, lab
 
 ### B
 Uji Anova two way
-![image](https://user-images.githubusercontent.com/77779184/170882219-d0e2630f-c493-49d2-a34c-10650b5e0c1b.png)
+![image](https://user-images.githubusercontent.com/77779184/170882807-8090c225-08f7-43e9-b9c8-5a4ffbc6b1ea.png)
 ![image](https://user-images.githubusercontent.com/77779184/170882221-f2797b04-2e38-44c1-b203-1c566e324c62.png)
 
 ### C
